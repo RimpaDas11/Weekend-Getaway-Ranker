@@ -1,0 +1,7 @@
+source_city,destination,lat,lon,rating,popularity
+Bangalore,Mysuru,12.3,76.6,4.5,90
+Bangalore,Coorg,12.3,75.8,4.7,85
+Mumbai,Lonavala,18.7,73.4,4.6,95
+Mumbai,Alibaug,18.6,72.9,4.4,80
+Delhi,Jaipur,26.9,75.8,4.5,92
+Delhi,Agra,27.2,78.0,4.6,98
